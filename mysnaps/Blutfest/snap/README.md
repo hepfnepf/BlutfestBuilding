@@ -1,6 +1,15 @@
 # Building using snap:
 Add Gamefiles (Blutfest.pck and Blutfest.bin/86_x64) into the Gamefiles folder.
 
+```
+- Blutfest
+-- gamefiles
+--- Blutfest.pck
+--- Blutfest.bin/86_x64
+-- snap
+--- snapcraft.yaml
+```
+
 Snap kompilieren schlägt Fehl mit vielen der Internet-Beispiele. Hier der aktuell funktionierende Weg:
 
 Command:
