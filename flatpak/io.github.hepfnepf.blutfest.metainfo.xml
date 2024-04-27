@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.hepfnepf.blutfest</id>
+  <name>Blutfest</name>
+  <developer id="io.github.hepfnepf">
+  <name>Hepfnepf</name>
+  </developer>
+  <launchable type="desktop-id">io.github.hepfnepf.blutfest.desktop</launchable>
+  <project_license>GPL-3.0-or-later</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+  <summary>Fight for survival using items, perks and weapons</summary>
+  <url type="homepage">https://github.com/hepfnepf/Blutfest</url>
+  <url type="bugtracker">https://github.com/hepfnepf/Blutfest/issues</url>
+  <url type="vcs-browser">https://github.com/hepfnepf/Blutfest</url>  
+  <description>
+    <p>A Crimsonland clone inspired by the unfished and no longer maintained FOSS-Game Bloodworks. You fight of hordes of zombiez using items, perks and weapons. Try to survive as long as possible. Features:
+    </p>
+    <ul>
+      <li>10+ Weapon</li>
+      <li>30+ Perks</li>
+      <li>10 Items</li>
+    </ul>
+  </description>
+  <branding>
+    <color type="primary" scheme_preference="light">#57e389</color>
+    <color type="primary" scheme_preference="dark">#57e389</color>
+  </branding>
+  <screenshots>
+    <screenshot type="default">
+      <caption>In action.</caption>
+      <image>
+        https://private-user-images.githubusercontent.com/69308038/326172359-a376801c-0a7e-4264-baaf-ee5ff64aec2e.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQyMTYyMjQsIm5iZiI6MTcxNDIxNTkyNCwicGF0aCI6Ii82OTMwODAzOC8zMjYxNzIzNTktYTM3NjgwMWMtMGE3ZS00MjY0LWJhYWYtZWU1ZmY2NGFlYzJlLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDI3VDExMDUyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFlMzE0YjIyMTI1ODAxYzFiZTNhM2RhMDVkZGJlMDVkZWU0ZDhkNDMwYmUwNDUxZjgwNTVlZDllY2Q5ZTZmZmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.0vd6uJSCxoNaVBL-FCg-zHzuZLb0Xdd6iIAxR4d8AdU
+      </image>
+    </screenshot>
+        <screenshot type="default">
+      <caption>In action.</caption>
+      <image>
+        https://private-user-images.githubusercontent.com/69308038/326172374-d1065d0e-d3fe-4137-b79d-5e8d31da241b.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQyMTYyMjQsIm5iZiI6MTcxNDIxNTkyNCwicGF0aCI6Ii82OTMwODAzOC8zMjYxNzIzNzQtZDEwNjVkMGUtZDNmZS00MTM3LWI3OWQtNWU4ZDMxZGEyNDFiLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDI3VDExMDUyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM3NDMzZmE4MzY3ZmE3NmY2MDNiYzQ2ZTFhZGY5ZWRiNGFhYTNiYjA1NmNjYWRhMjk0N2IxZWMxN2M1OTFkZWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.jltfy700pmUemvj1emGIgRz9MmAIG_SxmxrKto9ERko
+      </image>
+    </screenshot>
+    <screenshot type="default">
+    <caption>Death screen.</caption>
+      <image>
+        https://private-user-images.githubusercontent.com/69308038/326172382-77c7ff82-b307-4736-9caa-0ff10da4350b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQyMTYyMjQsIm5iZiI6MTcxNDIxNTkyNCwicGF0aCI6Ii82OTMwODAzOC8zMjYxNzIzODItNzdjN2ZmODItYjMwNy00NzM2LTljYWEtMGZmMTBkYTQzNTBiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDI3VDExMDUyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEzZTBlMTgzZmQ5NGY3OTk4YWE2OGJlNDIwMjFmMzJhOWRmYzc2YjFkMjM4ODBkYTYzZmQ1Mzk5NDhiNDI0NGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.EsHlREh5s8Dqanjz7Rklrdg9Ge05vuEdHF7HJvAv92E
+      </image>
+    </screenshot>
+  </screenshots>
+  <content_rating type="oars-1.1" />
+  <releases>
+    <release version="0.4.1" date="2024-04-14">
+      <description>
+        <p>Many new perks, two new guns, a statistics screen after death and bug fixes!</p>
+      </description>
+      <url>https://github.com/hepfnepf/Blutfest/releases/tag/v0.4.1</url>
+    </release>
+  </releases>
+</component>
+

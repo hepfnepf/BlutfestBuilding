@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Blutfest
+GenericName=Blutfest
+Comment=Fight of hordes of zombiez using items, perks and weapons
+Exec=godot-runner
+Icon=io.github.hepfnepf.blutfest
+Type=Application
+Categories=Game
+
