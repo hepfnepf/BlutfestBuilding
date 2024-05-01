@@ -32,13 +32,13 @@
         https://raw.githubusercontent.com/hepfnepf/BlutfestBuilding/7a509cca734fa44982dd6dcf7784c4530e3a4b1c/flatpak/screenshots/screenshot_01.jpg
       </image>
     </screenshot>
-        <screenshot type="default">
+    <screenshot>
       <caption>In action.</caption>
       <image>
         https://raw.githubusercontent.com/hepfnepf/BlutfestBuilding/7a509cca734fa44982dd6dcf7784c4530e3a4b1c/flatpak/screenshots/screenshot_02.jpeg
       </image>
     </screenshot>
-    <screenshot type="default">
+    <screenshot>
     <caption>Death screen.</caption>
       <image>
         https://raw.githubusercontent.com/hepfnepf/BlutfestBuilding/7a509cca734fa44982dd6dcf7784c4530e3a4b1c/flatpak/screenshots/screenshot_03.png
