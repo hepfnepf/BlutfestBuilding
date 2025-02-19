@@ -47,7 +47,7 @@
   </screenshots>
   <content_rating type="oars-1.1" />
   <releases>
-    <release version="0.4.1" date="2024-04-14">
+    <release version="0.4.2" date="2025-01-12">
       <description>
         <p>Many new perks, two new guns, a statistics screen after death and bug fixes!</p>
       </description>
@@ -55,4 +55,3 @@
     </release>
   </releases>
 </component>
-
