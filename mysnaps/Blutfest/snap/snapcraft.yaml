@@ -8,8 +8,11 @@ description: |
  - 10+ Wepaons
  - 30+ Perks
  - 10 Items
+license: GPL-3.0
+issues: https://github.com/hepfnepf/Blutfest/issues
+source-code: https://github.com/hepfnepf/Blutfest
 
-grade: devel # must be 'stable' to release into candidate/stable channels
+grade: stable # must be 'stable' to release into candidate/stable channels
 confinement: strict # use 'strict' once you have the right plugs and slots
 
 parts:
@@ -43,8 +46,6 @@ apps:
       LD_LIBRARY_PATH: "$LD_LIBRARY_PATH:/usr/lib/$SNAPCRAFT_ARCH_TRIPLET/pulseaudio"
     plugs:
       - opengl
-      - network
-      - network-bind
       - pulseaudio
       - x11
       - desktop
