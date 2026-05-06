@@ -11,6 +11,7 @@ finish-args:
   - --socket=x11 # <-- Godot needs X11
   - --socket=pulseaudio
   - --device=dri
+  - --device=all 
 modules:
   - name: Blutfest
     buildsystem: simple
@@ -24,8 +25,8 @@ modules:
       - install -D  icon.png /app/share/icons/hicolor/512x512/apps/io.github.hepfnepf.blutfest.png
     sources:
       - type: file
-        url: https://github.com/hepfnepf/Blutfest/releases/download/v0.4.2/Blutfest.pck
-        sha256: 8d7c1ee0b1d5b94576aa857914eb9af9b14ffbb6c26b0d4e424c6d634121f4d8
+        url: https://github.com/hepfnepf/Blutfest/releases/download/v0.4.3/Blutfest.pck
+        sha256: f238a21134d56d21ebacaa1c93b86dd34e1c3aca28f06dff05134202e00ae60a
       - type: file
         url: https://raw.githubusercontent.com/hepfnepf/BlutfestBuilding/7819d6911e9b4a6e220158e5868f5ec6fba4071b/flatpak/io.github.hepfnepf.blutfest.desktop
         sha256: 7e9a87e747ceb39137fe2de56e0a218ef0c543d3569c473df11247764b2dc9df

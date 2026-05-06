@@ -47,11 +47,11 @@
   </screenshots>
   <content_rating type="oars-1.1" />
   <releases>
-    <release version="0.4.2" date="2025-01-12">
+    <release version="0.4.3" date="2026-04-01">
       <description>
-        <p>Many new perks, two new guns, a statistics screen after death and bug fixes!</p>
+        <p>Controller & Android support. Bug fixed that would cause too many cards to spawn, when leveling up multiple times at once.</p>
       </description>
-      <url>https://github.com/hepfnepf/Blutfest/releases/tag/v0.4.1</url>
+      <url>https://github.com/hepfnepf/Blutfest/releases/tag/v0.4.3</url>
     </release>
   </releases>
 </component>
